@@ -1,3 +1,3 @@
 <?php
-    echo "Soy el mundo1";
+    echo "Soy el mundo";
  ?>
